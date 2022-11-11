@@ -3,9 +3,8 @@ function MainContent() {
         <div>
             <h1>MY TOP REASONS FOR REACT</h1>
             <ol>
-                <li>good job</li>
-                <li>easier jon</li>
-                <li>mo money</li>
+                <li>Good to know react</li>
+                <li>Can create scaleable web apps</li>
             </ol>
         </div>
     );
